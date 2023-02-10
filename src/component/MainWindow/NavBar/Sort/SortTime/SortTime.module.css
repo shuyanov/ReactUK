@@ -1,0 +1,12 @@
+.buttomSort{
+    width: 100px;
+    height: 30px;
+    margin: 2px;
+}
+
+.navMap{
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: center;
+    justify-items: center;
+}

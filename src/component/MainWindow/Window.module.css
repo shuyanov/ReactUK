@@ -1,0 +1,9 @@
+.windowElement{
+    display: grid;
+    width: 1200px;
+    height: 500px;
+    grid-template-areas:
+       "n w nb";
+
+    grid-template-columns: 2fr 10fr 4fr ;
+  }

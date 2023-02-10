@@ -1,0 +1,11 @@
+.navMap{
+    display: grid;
+    margin: 0 auto;
+
+    grid-template-rows: 1fr 1fr 1fr ;
+}
+
+.nav {
+    background-color: blueviolet;
+    grid-area: n;
+ }

@@ -1,0 +1,15 @@
+.header {
+   background-color: crimson;
+    grid-area: h;
+ }
+
+ .headerElement{
+   background-color: brown;
+   display: grid;
+   width: 1200px;
+   
+   grid-template-areas:
+      "p h s f d u";
+   grid-template-columns: 100px auto auto auto auto;
+   /* grid-gap: 10px; */
+ }
